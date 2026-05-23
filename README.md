@@ -65,13 +65,6 @@ Merge the channels and convert the image back to BGR format.
 ### Step 11:
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
 
----
-### Developed By:
-**Name:** RAJA GOPAL V
-
-### Register No:
-212223240134
----
 ## Ex. No: 03
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 ### Name : RAJA GOPAL V Reg. No : 212223240134
