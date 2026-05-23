@@ -212,31 +212,29 @@ plt.show()
 ### Grayscale Histogram Equalization
 
 - Original grayscale image is displayed  
-
-
-
-
-
+<img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/b333e0c5-0ab6-4704-a2b0-2c4f8fa783d9" />
 
 - Histogram of original grayscale image is plotted  
 
-
+<img width="778" height="498" alt="image-1" src="https://github.com/user-attachments/assets/c8c75b0d-5b2a-4a1e-b047-e21b0d4050dd" />
 
 
 - Enhanced image after histogram equalization is displayed 
-
+<img width="625" height="417" alt="image-3" src="https://github.com/user-attachments/assets/de38eeab-4935-4d33-ae79-8852c0e063f6" />
 
 
 - Histogram of enhanced grayscale image shows improved contrast  
 
 
-![alt text](image-4.png)
+
+
 
 ### Color Image Histogram Equalization
 
 - Original color image is displayed  
 
-![alt text](image-6.png)
+
+
 
 - Histogram of B, G, R channels is plotted 
 
