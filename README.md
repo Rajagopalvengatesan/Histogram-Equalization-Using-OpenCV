@@ -224,6 +224,8 @@ plt.show()
 
 
 - Histogram of enhanced grayscale image shows improved contrast  
+<img width="758" height="488" alt="image-4" src="https://github.com/user-attachments/assets/5e9054b5-c59a-4d9e-a1ed-4f7533527819" />
+
 
 
 
@@ -233,25 +235,30 @@ plt.show()
 
 - Original color image is displayed  
 
+<img width="564" height="416" alt="image-6" src="https://github.com/user-attachments/assets/18ed523d-06e3-45e1-b2ce-86fde86dfac9" />
 
 
 
 - Histogram of B, G, R channels is plotted 
 
-![alt text](image-5.png)
+<img width="750" height="514" alt="image-5" src="https://github.com/user-attachments/assets/580b67ee-27b5-40ce-8f50-a7bee02523f1" />
+
+
 
 
 - Enhanced image after HSV-based equalization is displayed
 
+<img width="573" height="400" alt="image-7" src="https://github.com/user-attachments/assets/836be316-4af3-4619-ad4a-e10d9ecfa331" />
 
-![alt text](image-7.png)
+
+
 
 
 
 - Histogram of enhanced image shows better intensity distribution  
+<img width="740" height="506" alt="image-8" src="https://github.com/user-attachments/assets/9e1e6c0e-d1f8-4f6c-a174-646a851f7ba1" />
 
 
-![alt text](image-8.png)
 
 ---
 
